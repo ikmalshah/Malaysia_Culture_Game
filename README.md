@@ -12,6 +12,6 @@ coding languages
 	<title></title>
 </head>
 <body>
-<input type="button" name="hi">
+<input type="button" name="hi">hi
 </body>
 </html>
