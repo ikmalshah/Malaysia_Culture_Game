@@ -1,4 +1,6 @@
 # Malaysia Culture Game
+<img src="https://user-images.githubusercontent.com/52269704/219287248-4ffe728a-2046-4705-b9ba-708105bd96e4.png" width="500" height="400" />
+
 
 ## Introduction
 This project is an educational game. The purpose of creating this game is to provide one of the education methods through the game platform. It helps attract users to enjoy playing the game and at the same time learn something through the game. Students can use this game as one of the sources to learn about history instead of reading a book or other book sources.
